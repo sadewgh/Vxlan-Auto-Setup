@@ -31,6 +31,11 @@ wget https://raw.githubusercontent.com/sadewgh/Vxlan-Auto-Setup/main/install.sh 
 # or
 curl -fsSL https://raw.githubusercontent.com/sadewgh/Vxlan-Auto-Setup/main/install.sh -o vxlan-setup.sh
 ```
+
+or quick install : 
+```bash
+bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/sadewgh/Vxlan-Auto-Setup/main/install.sh)
+```
 ## Example run
 
 ```bash
